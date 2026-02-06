@@ -19,7 +19,6 @@ body {
 
 
 .navbar {
-  position: sticky;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -142,10 +141,6 @@ p {
   .text2 {
     padding: 15px;
     border-radius: 10px;
-  }
-
-  .sketch{
-
   }
 
 
